@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu\home\dev\CSHARP\BACKEND\FINANCE\Finance-2024\src\2.0-Domain\Finance.Domain\bin\Debug\net8.0\Finance.Domain.deps.json
+\\wsl.localhost\Ubuntu\home\dev\CSHARP\BACKEND\FINANCE\Finance-2024\src\2.0-Domain\Finance.Domain\bin\Debug\net8.0\Finance.Domain.dll
+\\wsl.localhost\Ubuntu\home\dev\CSHARP\BACKEND\FINANCE\Finance-2024\src\2.0-Domain\Finance.Domain\bin\Debug\net8.0\Finance.Domain.pdb
+\\wsl.localhost\Ubuntu\home\dev\CSHARP\BACKEND\FINANCE\Finance-2024\src\2.0-Domain\Finance.Domain\obj\Debug\net8.0\Finance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\dev\CSHARP\BACKEND\FINANCE\Finance-2024\src\2.0-Domain\Finance.Domain\obj\Debug\net8.0\Finance.Domain.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\dev\CSHARP\BACKEND\FINANCE\Finance-2024\src\2.0-Domain\Finance.Domain\obj\Debug\net8.0\Finance.Domain.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\dev\CSHARP\BACKEND\FINANCE\Finance-2024\src\2.0-Domain\Finance.Domain\obj\Debug\net8.0\Finance.Domain.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\dev\CSHARP\BACKEND\FINANCE\Finance-2024\src\2.0-Domain\Finance.Domain\obj\Debug\net8.0\Finance.Domain.sourcelink.json
+\\wsl.localhost\Ubuntu\home\dev\CSHARP\BACKEND\FINANCE\Finance-2024\src\2.0-Domain\Finance.Domain\obj\Debug\net8.0\Finance.Domain.dll
+\\wsl.localhost\Ubuntu\home\dev\CSHARP\BACKEND\FINANCE\Finance-2024\src\2.0-Domain\Finance.Domain\obj\Debug\net8.0\refint\Finance.Domain.dll
+\\wsl.localhost\Ubuntu\home\dev\CSHARP\BACKEND\FINANCE\Finance-2024\src\2.0-Domain\Finance.Domain\obj\Debug\net8.0\Finance.Domain.pdb
+\\wsl.localhost\Ubuntu\home\dev\CSHARP\BACKEND\FINANCE\Finance-2024\src\2.0-Domain\Finance.Domain\obj\Debug\net8.0\ref\Finance.Domain.dll
