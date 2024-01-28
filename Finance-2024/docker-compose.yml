@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  finance.web.api:
+    image: ${DOCKER_REGISTRY-}financewebapi
+    build:
+      context: .
+      dockerfile: src/1.0-Service/Finance.Web.API/Dockerfile
